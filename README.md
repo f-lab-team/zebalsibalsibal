@@ -18,3 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1q_DtAUfgyqI1JnO2SA31k0
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+##Deploy
+
+https://fir-5a398.web.app,  (api 키 필요)
