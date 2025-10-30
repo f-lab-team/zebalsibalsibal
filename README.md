@@ -10,6 +10,9 @@ View your app in AI Studio: https://ai.studio/apps/drive/1q_DtAUfgyqI1JnO2SA31k0
 
 ## Run Locally
 
+##개발 일지
+https://www.notion.so/FLab-x-AI-Bive-coding-2025-274d6365bec480f9a203f089bc51a494
+
 **Prerequisites:**  Node.js
 
 
