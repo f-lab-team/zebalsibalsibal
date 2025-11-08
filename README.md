@@ -25,3 +25,4 @@ https://www.notion.so/FLab-x-AI-Bive-coding-2025-274d6365bec480f9a203f089bc51a49
 ##Deploy
 
 https://fir-5a398.web.app,  (api 키 필요)
+백엔드 구현을 끝내지 못함. AI 스튜디오 링크 참조
