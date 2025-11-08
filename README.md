@@ -26,3 +26,9 @@ https://www.notion.so/FLab-x-AI-Bive-coding-2025-274d6365bec480f9a203f089bc51a49
 
 https://fir-5a398.web.app,  (api 키 필요)
 백엔드 구현을 끝내지 못함. AI 스튜디오 링크 참조
+
+##사용 방법
+1. YOUR PHOTO에 사용자의 정면,측면(왼,오) 3장의 사진을 넣는다.
+2. VIBE PHOTO에 원하는 분위기의 사진을 넣는다
+3. 프롬프트에 추가적인 명령을 넣는다
+4. 완성 후 가장 원하는 사진을 다운로드 한다.
